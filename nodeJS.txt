@@ -1,0 +1,85 @@
+**apa itu node js
+
+    Node js adalah javascript runtime yang dibuat di dalam javascript engine v8 milik chrome
+
+    node js adalah sebuah runtime untuk membuat aplikasi yang asynchronous 
+
+    runtime adalah dimana kita menjalankan atau mengeksekusi code kita
+
+karakteristik nodejs
+    1. asynchronous & event driven
+    2. non-blocking
+    3. single threaded but highly scalable
+    4. cross platform
+    5. mit license
+    6. npm
+
+fitur utama nodejs
+    1. file system
+    2. buffer ==> ketika kita mengelola binary dari file
+    3. http & https
+    4. repl
+    5. console
+    6. crypto
+    7. zlib => kompresi
+
+perbedaan javascript yang berjalan didalam node dan php
+    1. tahun pembuatan
+        php lebih lama
+    2. engine
+        php zend engine , nodejs google v8 engine
+    3. eksekusi code
+        php=multi-thread dan synchronous
+        nodejs=single-thread asynchronous
+    4. web server
+        php = apache / IIS
+        nodejs=berjalan di runtime sendiri
+    5. package manajer
+        php = composer
+        nodejs= npm
+
+nodejs cocok untuk ...
+
+    - Dynamic Single Page Application(SPA)
+        aplikasi yang hanya satu halaman tapi isinya secara dinamis bisa berubah ubah
+    - Realtime App (Chat, Multiplayer)
+    - API
+    - streaming App
+    - Microservices
+        jadi bikin satu aplikasi besar didalamnya ada banyak aplikasi
+    - command line tool
+    - MERN, MEAN, MEVN
+        M = MONGODB
+        E = EXPRESS
+        R = REACT
+        A = ANGULAR
+        V=VUE
+        N = NODE
+
+Pre Requisite
+    1. javascript dasar
+    2. javascript lanjutan
+
+System & software Requirment
+    1. Windows/Linux/ MacOS
+    2. code editor
+    3. terminal
+
+
+arsitekstur node js
+
+
+
+
+
+
+instalasi, konfigurasi node js
+
+
+node js module system
+
+
+npm
+
+
+membuat aplikasi node js sederhana

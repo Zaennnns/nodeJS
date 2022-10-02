@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaenal Abidin Syah",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.3",
+    "express-validator": "^6.14.2",
+    "morgan": "^1.10.0",
+    "validator": "^13.7.0",
+    "yargs": "^17.5.1"
+  }
+}
